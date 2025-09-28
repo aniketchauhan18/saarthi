@@ -837,7 +837,7 @@ const TrainSimulation = ({ simulationData }: TrainSimulationProps) => {
                   <g
                     transform={`translate(${panX / zoom}, ${panY / zoom}) scale(${zoom})`}
                   >
-                    <defs>
+                    {/* <defs>
                       <pattern
                         id="grid"
                         width="50"
@@ -852,7 +852,7 @@ const TrainSimulation = ({ simulationData }: TrainSimulationProps) => {
                           opacity="0.3"
                         />
                       </pattern>
-                    </defs>
+                    </defs> */}
                     <rect width="100%" height="100%" fill="url(#grid)" />
                     {sections.map((section) => {
                       if (!section.fromPos || !section.toPos) return null;

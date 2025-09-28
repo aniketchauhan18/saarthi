@@ -791,7 +791,7 @@ export default function RailwayBuilder({
         <h1
           className={`text-xl px-4 border-b border-neutral-700 py-3 font-bold mb-6 sticky bg-neutral-800 top-0  ${instrumentSerif.className}`}
         >
-          Scenegen Railway Builder
+          Saarthi Railway Builder
         </h1>
         <div className="p-4 space-y-6 pt-0">
           <div className="mb-6">
