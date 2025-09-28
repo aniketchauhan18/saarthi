@@ -92,9 +92,21 @@ scengen-trubo/
 # Screenshots & Demo
 
 ## Live Demo
-🚀 **Deployed Application:** [Add your deployment URL here]
+🚀 **Deployed Application:** https://saarthi-web.vercel.app
 
 ## Project Screenshots
+
+### Main Dashboard
+<img width="1879" height="860" alt="image" src="https://github.com/user-attachments/assets/3811fbdd-91bf-40c8-9209-5bee3bef0208" />
+
+### Simulation Interface
+<img width="1889" height="866" alt="image" src="https://github.com/user-attachments/assets/3f80cb57-9c69-422d-b289-1b97c4eb1c2e" />
+
+### Results Visualization
+<img width="1886" height="848" alt="image" src="https://github.com/user-attachments/assets/67e1f18e-207a-457b-8f99-1db9d9029db5" />
+*Description: Visualization of optimized train schedules, throughput metrics, and performance KPIs.*
+<img width="1886" height="852" alt="image" src="https://github.com/user-attachments/assets/49f2c13b-e62c-4f5a-80f5-65975b2289bd" />
+
 
 ---
 
@@ -128,8 +140,3 @@ scengen-trubo/
 - Extend Python scripts for advanced optimization models.
 - Customize UI components in `apps/web/src/components/`.
 
----
-
-# Contributing
-- Fork the repo, create a feature branch, and submit pull requests.
-- See `packages/` for shared configs and UI components.
