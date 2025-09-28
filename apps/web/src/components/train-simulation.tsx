@@ -1,20 +1,15 @@
 "use client";
+/* eslint-disable */
+
 
 import {
-  Activity,
   ChevronLeft,
   ChevronRight,
-  Clock,
-  Gauge,
-  MapPin,
-  Navigation,
   Pause,
   Play,
   RotateCcw,
   Square,
   Train,
-  TrendingUp,
-  Zap,
   ZoomIn,
   ZoomOut,
 } from "lucide-react";

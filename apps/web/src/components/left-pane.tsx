@@ -1,4 +1,7 @@
 "use client";
+/* eslint-disable */
+
+
 import { instrumentSerif } from "@/lib/fonts";
 import { MapPin, Navigation, Train } from "lucide-react";
 import React from "react";

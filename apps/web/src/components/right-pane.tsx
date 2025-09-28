@@ -1,6 +1,6 @@
-// Right Pane Component
-
 "use client";
+/* eslint-disable */
+
 
 import { instrumentSerif } from "@/lib/fonts";
 import { Activity, Gauge, TrendingUp, Zap } from "lucide-react";

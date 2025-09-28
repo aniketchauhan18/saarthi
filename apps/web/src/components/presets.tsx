@@ -200,7 +200,7 @@ const Presets: React.FC<PresetsProps> = ({
         <div className="flex-1 overflow-y-auto p-4 hide-scrollbar space-y-4">
           <div className="space-y-4">
             <div className="text-neutral-400 mb-4 border p-1 bg-neutral-900 text-xs border-neutral-700">
-              Click "Add to Canvas" to instantly add a preset configuration to
+              Click &ldquo;Add to Canvas&ldquo; to instantly add a preset configuration to
               your network. These are commonly used railway junction patterns.
             </div>
 
@@ -215,7 +215,7 @@ const Presets: React.FC<PresetsProps> = ({
               </h4>
               <div className="px-3 py-2">
                 <ol className="text-xs text-neutral-300 space-y-1">
-                  <li>1. Click "Add to Canvas" below any preset.</li>
+                  <li>1. Click &ldquo;Add to Canvas&ldquo; below any preset.</li>
                   <li>
                     2. The preset will be added to the center of your canvas.
                   </li>
