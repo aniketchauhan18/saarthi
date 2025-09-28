@@ -96,22 +96,6 @@ scengen-trubo/
 
 ## Project Screenshots
 
-### Main Dashboard
-![Main Dashboard](path/to/dashboard-screenshot.png)
-*Description: Overview of the train traffic control dashboard showing real-time train positions and scheduling interface.*
-
-### Simulation Interface
-![Simulation Interface](path/to/simulation-screenshot.png)
-*Description: Train scheduling simulation interface with MILP optimization controls and scenario analysis.*
-
-### Results Visualization
-![Results Visualization](path/to/results-screenshot.png)
-*Description: Visualization of optimized train schedules, throughput metrics, and performance KPIs.*
-
-### JSON Data Import
-![Data Import](path/to/import-screenshot.png)
-*Description: Interface for importing custom train data and network configuration in JSON format.*
-
 ---
 
 # Getting Started
@@ -149,6 +133,3 @@ scengen-trubo/
 # Contributing
 - Fork the repo, create a feature branch, and submit pull requests.
 - See `packages/` for shared configs and UI components.
-
-# Contact
-For questions or demo requests, contact [Your Team Name/Email].
