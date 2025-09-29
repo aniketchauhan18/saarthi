@@ -154,6 +154,7 @@ const TrainSimulation = ({ simulationData }: TrainSimulationProps) => {
   const [leftPaneCollapsed, setLeftPaneCollapsed] = useState(false);
   const [rightPaneCollapsed, setRightPaneCollapsed] = useState(false);
 
+
   // Zoom and Pan state
   const [zoom, setZoom] = useState(1);
   const [panX, setPanX] = useState(0);
@@ -422,12 +423,12 @@ const TrainSimulation = ({ simulationData }: TrainSimulationProps) => {
       const startStation = stations.find((s) => s.id === train.start_station);
       return startStation
         ? {
-            x: startStation.x,
-            y: startStation.y,
-            moving: false,
-            atStation: train.start_station_name,
-            waiting: true,
-          }
+          x: startStation.x,
+          y: startStation.y,
+          moving: false,
+          atStation: train.start_station_name,
+          waiting: true,
+        }
         : null;
     }
 
@@ -436,12 +437,12 @@ const TrainSimulation = ({ simulationData }: TrainSimulationProps) => {
       const endStation = stations.find((s) => s.id === train.end_station);
       return endStation
         ? {
-            x: endStation.x,
-            y: endStation.y,
-            moving: false,
-            atStation: train.end_station_name,
-            completed: true,
-          }
+          x: endStation.x,
+          y: endStation.y,
+          moving: false,
+          atStation: train.end_station_name,
+          completed: true,
+        }
         : null;
     }
 
