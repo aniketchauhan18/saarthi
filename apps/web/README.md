@@ -92,7 +92,7 @@ scengen-trubo/
 # Screenshots & Demo
 
 ## Live Demo
-🚀 **Deployed Application:** [Add your deployment URL here]
+🚀 **Deployed Application:** https://saarthi-web.vercel.app
 
 ## Project Screenshots
 
